@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy docente de desarrollo de software y docente de la materia ciencias de la computación
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-ernesto-echeverría-preza-827484273/) 
 
 # 💻 Tech Stack:
