@@ -1,5 +1,5 @@
-# 💫 Sobre mi:
-Soy docente de desarrollo de software y docente de la materia ciencias de la computación
+# ⚡ Sobre mí
+Soy docente enfocado en enseñar Programación, Algoritmos y Pensamiento computacional, guiando a mis estudiantes a resolver problemas reales con lógica y creatividad.
 
 
 ## 🌐 Redes sociales:
